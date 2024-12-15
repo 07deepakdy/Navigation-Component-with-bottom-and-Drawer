@@ -10,5 +10,5 @@ The **Navigation Component** simplifies app navigation with **BottomNavigationVi
 - **View Binding**: Reduces boilerplate code and enables easy view handling.
 - **Lifecycle-Aware**: Integrates `lifecycleOwner` for LiveData updates.
 
-Uploading screen-20241216-005819.mp4…
+Uploading screen-20241216-005819.mp4
 
