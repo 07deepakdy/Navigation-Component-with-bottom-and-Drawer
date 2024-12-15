@@ -10,5 +10,6 @@ The **Navigation Component** simplifies app navigation with **BottomNavigationVi
 - **View Binding**: Reduces boilerplate code and enables easy view handling.
 - **Lifecycle-Aware**: Integrates `lifecycleOwner` for LiveData updates.
 
-https://github.com/user-attachments/assets/a408a37b-e79b-46cd-b716-0f7560600ff3
+![screen-20241216-005819-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9a89622c-21f2-4b99-9d0f-05d98c4db6da)
+
 
